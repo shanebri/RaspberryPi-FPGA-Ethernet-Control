@@ -1,0 +1,62 @@
+# ============================================
+# Vivado generated files
+# ============================================
+
+*.jou
+*.log
+*.str
+*.tmp
+
+.Xil/
+*.cache/
+*.gen/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+
+# Common Vivado project-generated directories
+**/*.cache/
+**/*.gen/
+**/*.runs/
+**/*.sim/
+**/*.hw/
+**/*.ip_user_files/
+
+# Generated checkpoints
+*.dcp
+
+# Temporary/editor files
+*~
+*.backup
+*.bak
+
+# ============================================
+# Vitis generated/build files
+# ============================================
+
+Debug/
+Release/
+build/
+_hw/
+ide/
+
+# Eclipse/Vitis workspace metadata
+.metadata/
+
+# ============================================
+# Python
+# ============================================
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ============================================
+# OS/editor
+# ============================================
+
+.DS_Store
+Thumbs.db
+.vscode/
