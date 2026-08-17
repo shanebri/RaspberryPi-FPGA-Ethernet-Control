@@ -1,0 +1,6 @@
+*.ltx linguist-generated=true
+*.xci linguist-generated=true
+*.bd  linguist-generated=true
+*.bda linguist-generated=true
+*.xpr linguist-generated=true
+*.prj linguist-generated=true
